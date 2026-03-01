@@ -1,1 +1,1 @@
-web app for lab 2
+Maven Web Application for Lab 2
